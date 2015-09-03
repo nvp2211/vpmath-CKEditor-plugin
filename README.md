@@ -2,7 +2,9 @@
 Plugin for CKEditor 3 to input math formula easily and efficient.
 #Overview
 This plugin is built and tested only with CKEditor 3 that comes with question2answer 1.6.3 flatform.
-Current Version 0.0.1a
+
+Current Version is 0.0.1a
+
 This version is still missiong some important math symbols such as matrix and the design is still messy.
 This plugin is built base on:
 - Mathquill. https://github.com/mathquill/mathquill
