@@ -16,12 +16,12 @@ Note: The install instruction is for only question2answer flatform version 1.6.3
 - Replace line 147 of the file question2answer/qa-plugin/wysiwyg-editor/qa-wysiwyg-editor.php by "['RemoveFormat', 'Maximize', 'Vpmath']".
 - Add to line 9 of the file question2answer/qa-plugin/wysiwyg-editor/config.js the following code: config.extraPlugins = 'vpmath';
 - Insert to the header of every page the following code: 
-<script type="text/x-mathjax-config">
+\<script type="text/x-mathjax-config">
   MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
-</script>
-<script type="text/javascript"
+\</script>
+\<script type="text/javascript"
   src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>
+\</script>
 - The above code is the link to the CDN of Mathjax and the configuration. For more information visit Mathjax website: https://www.mathjax.org/
 
 #Usage
