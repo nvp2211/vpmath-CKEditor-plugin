@@ -9,3 +9,4 @@ Current Version 0.0.1a
 This version is still missiong some important math symbols such as matrix and the design is still messy.
 #Install
 Note: The install instruction is for only question2answer flatform version 1.6.3
+Copy
