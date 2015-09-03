@@ -27,3 +27,5 @@ Note: The install instruction is for only question2answer flatform version 1.6.3
 #Usage
 After successful install the plugin, you should see the Pi symbol button at the last postion of tools in the editor. Click on that button to input the formula then click OK button. The plugin will place a line of Latex code to the text editor, not the formula. After posting the post, Mathjax will take care that Latex code and display the formula.
 
+Note: The Mathjax doesn't work in case using ajax. In this case you need to refresh the page to see the formula instead of LaTex code
+
