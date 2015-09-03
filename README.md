@@ -1,5 +1,9 @@
 # vpmath CKEditor plugin
 Plugin for CKEditor 3 to input math formula easily and efficient.
+
+#Demo
+http://thanhanhiepthong.net/phunguyen/demo-vpmath/index.php
+
 #Overview
 This plugin is built and tested only with CKEditor 3 that comes with question2answer 1.6.3 flatform.
 
