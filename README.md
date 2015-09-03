@@ -5,7 +5,7 @@ This plugin is built and tested only with CKEditor 3 that comes with question2an
 
 Current Version is 0.0.1a
 
-This version is still missiong some important math symbols such as matrix and the design is still messy.
+This version is still missing some important math symbols such as matrix and the design is still messy.
 This plugin is built base on:
 - Mathquill. https://github.com/mathquill/mathquill
 - Mathjax.   https://github.com/mathjax/MathJax
